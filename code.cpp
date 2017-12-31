@@ -20,6 +20,7 @@ double fibonacci (int n) {
 }
 
 int main(){
+	cout << "Golden Rtio and Fibonacci Series Generator" << endl << endl;
 	cout << "The golden ratio is: " << goldenratio(100) << endl;
 	cout << "Fibonacci series: " << endl;
 	for(int i=0 ; i <= 11 ; i++){
